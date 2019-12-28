@@ -6,5 +6,5 @@ Exercises done to practice and understand better the subject given to electrical
 
 
 
-Link to the exercises and most of the answer keys, [click here](https://www.ime.usp.br/~macmulti/exercicios/)
+Link to the exercises and most of the answer keys [are here](https://www.ime.usp.br/~macmulti/exercicios/)
 
